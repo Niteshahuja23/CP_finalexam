@@ -20,7 +20,7 @@ void fibonacci(int n)
     {
         t3 = t1 + t2;
         printf("%d\t", t3);
-        t2 = t3;
         t1 = t2;
+        t2 = t3;
     }
 }
