@@ -1,5 +1,5 @@
 //Write a program to demonstrate Bitwise operators.
-#include <stdio.h>
+#include<stdio.h>
 void main()
 {
     int a = 5,b = 10,ans;
