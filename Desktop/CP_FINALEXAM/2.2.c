@@ -3,12 +3,13 @@
 void main()
 {
     int i,ans;
+    int isPrime(int);
     for(i = 75; i <=150; i++)
     {
         ans = isPrime(i);
         if(ans == 1)
         {
-            printf("%d\n",i)
+            printf("%d\n",i);
         }
     }
 }
