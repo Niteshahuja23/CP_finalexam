@@ -1,4 +1,4 @@
-//Write a program to find the LCM and GCD of two numbers.
+//Write a program to find the LCM and GCD of two numbers.(very important)
 #include<stdio.h>
 void main()
 {
