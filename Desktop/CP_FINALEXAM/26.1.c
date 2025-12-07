@@ -31,6 +31,6 @@ void main()
         {
             printf("%c",ch);
         }
-
+        fclose(fp1);
     }
 }
